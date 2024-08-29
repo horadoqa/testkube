@@ -247,4 +247,4 @@ spec:
 
 </div>
 
-Próximos passos... [Verificando consumo CPU/Memória dos Nodes e Pods](instalação.md)
+Próximos passos... [Verificando consumo CPU/Memória dos Nodes e Pods](../prometheus-grafana-k8s/instalação.md)
