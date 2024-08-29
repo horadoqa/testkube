@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-[Testkube local](http://localhost:8080/)
+[Acessando o Testkube local via Browser](http://localhost:8080/)
 
 <div align="center">
 

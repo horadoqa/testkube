@@ -58,10 +58,10 @@ tar -zxvf testkube_1.5.1_Linux_x86_64.tar.gz.
 3. Mova-o para um local no PATH. Por exemplo:
 
 ```bash
-mv  testkube_1.5.1_Linux_x86_64/kubectl-testkube /usr/local/bin/kubectl-testkube
+mv testkube_1.5.1_Linux_x86_64/kubectl-testkube /usr/local/bin/kubectl-testkube
 ```
 
-## Verificando a versão do 
+## Verificando a versão do Testkube
 
 ```bash
 testkube version

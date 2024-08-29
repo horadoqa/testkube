@@ -2,7 +2,7 @@
 
 Utilizando um script simples
 
-o testkube chama por k6.js
+O testkube chama por k6.js
 
 <div align="center">
 

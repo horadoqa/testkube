@@ -12,8 +12,9 @@ https://docs.docker.com/desktop/install/windows-install/
 
 ### Inicializar o Docker Desktop 
 
-No Windows, botão do Windos + s
-Procurar por Docker Desktop
+No Windows, botão do Windows + s
+
+Procurar por `Docker Desktop`
 
 ### Criar a conta
 
@@ -29,7 +30,7 @@ Será redirecionado para o formulário de criação da conta (Sign Up)
 
 ![Tela do Docker Desktop](./images/docker/final.png)
 
-### Logar CLI
+### Logar no CLI
 
 Este passo é importante para todo o trabalho que seguirá no caso de trabalhar com imagens, pull, build,push via linha de comando. 
 

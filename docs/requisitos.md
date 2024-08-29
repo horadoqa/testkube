@@ -1,7 +1,8 @@
-# Pre Requisitos para a Instalação
+# Pré-requisitos
 
-Preparando o ambiente para a instalação do Testkube
+Preparando o ambiente para a instalação do Testkube.
 
+- WSL com Ubuntu
 - Terminal
 - Docker Desktop
 - Kubernetes
